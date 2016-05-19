@@ -1,2 +1,2 @@
-hello word. 
-This is a test file.
+hello word!
+This is a test file!
